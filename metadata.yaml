@@ -1,0 +1,35 @@
+_repo: Epicoene--Or-The-Silent-Woman_4011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jonson, Ben
+    aliases:
+    - Ionson, Ben
+    - Johnson, Ben
+    - Jonson, Benjamin
+    deathdate: 1637
+    gutenberg_agent_id: '1269'
+    url: http://www.gutenberg.org/2009/agents/1269
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Jonson
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nephews -- Drama'
+- !lcsh 'Married women -- Drama'
+- !lcsh 'English drama (Comedy)'
+- !lcsh 'Comedies'
+- !lcsh 'Uncles -- Drama'
+- !lcsh 'Inheritance and succession -- Drama'
+- !lcsh 'English drama -- 17th century'
+- !lcc 'PR'
+- GITenberg
+title: Epicoene; Or, The Silent Woman
+url: http://www.gutenberg.org/ebooks/4011
